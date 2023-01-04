@@ -5,3 +5,5 @@ Whatsapp Dev Code
 3.attachement code
 4.Hide last seen
 5.Videos and audios facilitied
+6.Status feature 
+7.shorts feature
