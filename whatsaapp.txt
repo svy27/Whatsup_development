@@ -3,7 +3,4 @@ Whatsapp Dev Code
 1.messaging code
 2.last seen code
 3.attachement code
-4.Hide last seen
-5.Videos and audios facilitied
-6.Status feature 
-7.shorts feature
+Hide last seen
